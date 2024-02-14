@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js , MySQL e.t.c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am the Young Programmer I started my Programming Journey at the age of 8 years and I am the youngest blogger of India owns a website named jagranbhaskar.com 
+- I am the Young Programmer I started my Programming Journey at the age of 20 years and I am Currenty(2024) 26 years and have 6 years of experience.
 
 <!---
 TheYoungProgrammerOfficial/TheYoungProgrammerOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
